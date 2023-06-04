@@ -5,8 +5,8 @@
 
 #### Assignment : 1.6 Exercise • Deploying A Static Website
 
-[Netlify Webpage] (https://damesnicholas-nextapp.netlify.app/)
-[GitHub Repo] (https://github.com/DamesNicholas-FS/dames_nicholas_nextdemo)
+(Netlify Webpage) [https://damesnicholas-nextapp.netlify.app/]
+(GitHub Repo) [https://github.com/DamesNicholas-FS/dames_nicholas_nextdemo]
 
 <hr/>
 
