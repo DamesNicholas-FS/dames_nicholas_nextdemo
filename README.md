@@ -1,3 +1,12 @@
+## Nicholas Dames
+### Student ID : 0004920324
+### Class : Deployment of Web Applications - Online
+### Course ID : WDV463-O • Term C202306
+
+#### Assignment : 1.6 Exercise • Deploying A Static Website
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
