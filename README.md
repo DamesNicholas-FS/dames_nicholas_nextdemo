@@ -1,3 +1,13 @@
+### Name: Nicholas Dames
+### Student ID: 0004920324
+
+## Class: WDV463-O
+## Project: 1.6 Exercise
+
+#### Creating a static page using Next.js ansd GitHub Pages
+
+<hr/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
