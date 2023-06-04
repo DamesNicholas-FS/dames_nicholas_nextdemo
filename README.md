@@ -5,6 +5,9 @@
 
 #### Assignment : 1.6 Exercise • Deploying A Static Website
 
+[Netlify Webpage] (https://damesnicholas-nextapp.netlify.app/)
+[GitHub Repo] (https://github.com/DamesNicholas-FS/dames_nicholas_nextdemo)
+
 <hr/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
