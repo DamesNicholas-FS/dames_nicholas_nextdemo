@@ -6,11 +6,12 @@
 #### Assignment : 1.6 Exercise • Deploying A Static Website
 
 [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
+[GitHub Repository](https://github.com/DamesNicholas-FS/dames_nicholas_nextdemo)
 
 <hr/>
 
-* Week One: Create & Deploying A Static Website
-* Week Two: Adding New Items to the Website
+* Week One: Create & Deploying A Static Website [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
+* Week Two: Adding New Items to the Website [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
 * Week Three:
 * Week Four:
 
