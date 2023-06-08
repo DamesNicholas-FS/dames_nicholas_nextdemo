@@ -9,6 +9,13 @@
 
 <hr/>
 
+* Week One: Create & Deploying A Static Website
+* Week Two: Adding New Items to the Website
+* Week Three:
+* Week Four:
+
+<hr/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
