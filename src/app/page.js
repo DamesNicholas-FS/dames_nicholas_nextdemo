@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <>
     <title>My First Next JS App</title>
-    <div className="min-h-screen flex justify-center items-center flex-col gap-7 select-none">
+    <div className="min-h-screen p-10 flex justify-center items-center flex-col gap-7 select-none">
       <h1 className="flex justify-center items-center gap-7 text-8xl font-bold border-b pb-2 px-8 ">Welcome To <img className="invert" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="" /></h1>
       <h2 className="text-xl font-light">Making Bloging with <span className="animate-pulse">❤️</span> & Next.js + Tailwind CSS + React</h2>
     <hr/>
@@ -58,6 +58,16 @@ export default function Home() {
         <li className="underline text-blue-700"> &gt;	 <a href="https://youtube.com/playlist?list=PLYBvEAka-q1hJuwRPYQPlEBBRm7_qGw_2">Building A React Native App</a> </li>
         <li className="underline text-blue-700"> &gt;	 <a href="https://www.youtube.com/watch?v=VozPNrt-LfE">React Native Crash Course</a> </li>
       </ul>
+      <h1 className="pt-8 text-4xl font-semibold">React Native</h1>
+      <p className="pt-5 text-justify"><span className="italic font-semibold">"Learn once, write anywhere."</span> This is the underlying principle of React Native. The concept of 
+      React revolves around maintaining a single codebase that can smoothly transition across various platforms such as Android, 
+      iOS, or the Web. It leverages the native components of each operating system's user interface, incorporating basic core components 
+      like Button, Switch, View, among others. The distinguishing aspect of React Native lies in its usage of the <span className="font-mono">&#123;<span className="text-yellow-500/75 px-1">platform</span>&#125;</span> module, which
+      manages Android's <span className="p-0.5 px-1 bg-slate-300 rounded-md border border-slate-500 font-mono">android.view</span> and iOS's <span className="p-0.5 px-1 bg-slate-300 rounded-md border border-slate-500 font-mono">uiview</span>, superseding the use of a <span className="p-0.5 px-1 bg-slate-300 rounded-md border border-slate-500 font-mono">div</span> and associated components. An appealing feature of React Native 
+      is the ability to implement styles that resemble CSS, although it's important to note that CSS itself isn't compatible with React Native.</p>
+
+      <img className="p-4 rounded" src="https://www.qed42.com/sites/default/files/styles/featured_image/public/2018-11/react-native.png?itok=lj4A4r0I" alt="react native with andriod and ios" />
+      <p><a className="w-auto flex justify-center italic" href="https://www.qed42.com/insights/coe/javascript/react-native-fabric-why-am-i-so-excited">Courtesy of: QED42</a></p>
     </div>
     
     </div>
