@@ -7,7 +7,7 @@ export default function Home() {
       <h2 className="text-xl font-light">Making Bloging with <span className="animate-pulse">❤️</span> & Next.js + Tailwind CSS + React</h2>
     <hr/>
 
-    <div className="border p-6 rounded-lg bg-white text-black">
+    <div className="border p-6 rounded-lg bg-white text-black w-5/12">
 
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-center gap-3">
@@ -36,6 +36,30 @@ export default function Home() {
         <li className="underline text-blue-700"> &gt;	  <a href="https://www.npmjs.com/~nrdames-fso">My NPM Packages</a> </li>
       </ul>
     </div>
+
+    <div className="border p-6 rounded-lg bg-white text-black w-5/12">
+
+      <div className="flex items-center justify-between mb-6">
+        <div className="flex items-center gap-3">
+          <img className="rounded-full shadow w-14" src="https://media.licdn.com/dms/image/C5603AQHSojSDrL2BbQ/profile-displayphoto-shrink_800_800/0/1574342692271?e=1691625600&v=beta&t=elRyjom_c_4ELSXogtaGv4_bdAXRodvDNk4ouwTehxw" alt="" />
+            <ul>
+              <li className="font-bold">Nicholas Dames</li>
+              <li className="font-light text-xs text-gray-500">FullSail University Student - Web Development</li>
+            </ul>
+        </div>
+        <p className="font-light text-xs text-gray-500">Thursday, June 16<sup>th</sup>, 2023
+</p>
+      </div>
+
+      <h3 className="font-bold text-xl py-2">What is React Native</h3>
+      <ul>
+        <li className="underline text-blue-700"> &gt;	 <a href="https://www.youtube.com/watch?v=gvkqT_Uoahw">React Native in 100 Seconds</a> </li>
+        <li className="underline text-blue-700"> &gt;	 <a href="https://reactnative.dev/">React Native Docs</a> </li>
+        <li className="underline text-blue-700"> &gt;	 <a href="https://youtube.com/playlist?list=PLYBvEAka-q1hJuwRPYQPlEBBRm7_qGw_2">Building A React Native App</a> </li>
+        <li className="underline text-blue-700"> &gt;	 <a href="https://www.youtube.com/watch?v=VozPNrt-LfE">React Native Crash Course</a> </li>
+      </ul>
+    </div>
+    
     </div>
     </>
   )
