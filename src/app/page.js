@@ -66,7 +66,7 @@ export default function Home() {
           iOS, or the Web. It leverages the native components of each operating system&#39;s user interface, incorporating basic core components 
           like Button, Switch, View, among others. The distinguishing aspect of React Native lies in its usage of the
     <span className="font-mono">&#123;<span className="text-yellow-500/75 px-1">platform</span>&#125;</span>
-    module, which manages Android's
+    module, which manages Android&#39;s
     <span className="p-0.5 px-1 bg-slate-300 rounded-md border border-slate-500 font-mono">android.view</span>
     and iOS&#39;s
     <span className="p-0.5 px-1 bg-slate-300 rounded-md border border-slate-500 font-mono">uiview</span>,
