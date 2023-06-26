@@ -90,7 +90,7 @@ export default function Home() {
         <li className="font-light text-xs text-gray-500">FullSail University Student - Web Development</li>
       </ul>
   </div>
-  <p className="font-light text-xs text-gray-500">Thursday, June 24<sup>th</sup>, 2023
+  <p className="font-light text-xs text-gray-500">Saturday, June 24<sup>th</sup>, 2023
 </p>
 </div>
     <h3 className="font-bold text-xl py-2">Password Hashing</h3>
