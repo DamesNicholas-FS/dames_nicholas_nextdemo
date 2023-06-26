@@ -12,8 +12,8 @@
 
 * Week One: Create & Deploying A Static Website [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
 * Week Two: Adding New Items to the Website [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
-* Week Three:
-* Week Four:
+* Week Three: React Native [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
+* Week Four: Password Hashing [Netlify Webpage](https://damesnicholas-nextapp.netlify.app/)
 
 <hr/>
 
